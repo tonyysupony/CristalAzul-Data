@@ -1,0 +1,33 @@
+{
+  "peliculas": [
+    {
+      "titulo": "Avatar 2",
+      "url": "https://servidor.com/avatar2.mp4",
+      "imagen": "https://servidor.com/avatar2.jpg",
+      "descripcion": "Una aventura épica en Pandora."
+    },
+    {
+      "titulo": "John Wick 4",
+      "url": "https://servidor.com/johnwick4.mp4",
+      "imagen": "https://servidor.com/johnwick4.jpg",
+      "descripcion": "John Wick regresa con más acción."
+    }
+  ],
+  "series": [
+    {
+      "titulo": "Breaking Bad",
+      "temporadas": [
+        {
+          "numero": 1,
+          "capitulos": [
+            {
+              "titulo": "Piloto",
+              "url": "https://servidor.com/breakingbad_s01e01.mp4",
+              "imagen": "https://servidor.com/breakingbad_s01e01.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
